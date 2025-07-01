@@ -1,1 +1,2 @@
 Hello! Lets collaborate 
+- Produce a model for predicting ticket sales for live events based on past sales, proposed artist bookings and customer profiles. (Neil)
